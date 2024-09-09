@@ -20,3 +20,15 @@ Durante o desafio, identifiquei e corrigi os seguintes erros:
 4. Acompanhe sua pontuação no canto superior da tela.
 5. Quando o jogo terminar, a tela de Game Over será exibida.
 6. Clique em "Reiniciar" para jogar novamente
+
+## Fotos
+
+![1](https://github.com/user-attachments/assets/3e0ec41b-2da9-473b-9c6e-75f100289282)
+
+![2](https://github.com/user-attachments/assets/30016c67-3494-4d36-891e-7d65165eff46)
+
+![3](https://github.com/user-attachments/assets/bcb93837-f077-491d-8241-f5a94e0041c2)
+
+
+
+
